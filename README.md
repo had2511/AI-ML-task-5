@@ -55,12 +55,12 @@ seaborn
 
 __Install using:__
 pip install pandas numpy scikit-learn matplotlib seaborn
-** Project Structure**
+**Project Structure**
 ├── heart.csv                  # Dataset
 ├── heart_disease_model.ipynb # Colab notebook
 ├── README.md                 # This file
 
- ** How to Run
+ **How to Run
 1) Upload heart.csv in Colab.
 2) Run the notebook cells step-by-step.
 3) Visualize the decision tree, evaluate accuracy, and plot feature importance.
