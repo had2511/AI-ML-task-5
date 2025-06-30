@@ -53,9 +53,9 @@ scikit-learn
 matplotlib
 seaborn
 
-** Install using:
+** Install using:**
 pip install pandas numpy scikit-learn matplotlib seaborn
-** Project Structure
+** Project Structure**
 ├── heart.csv                  # Dataset
 ├── heart_disease_model.ipynb # Colab notebook
 ├── README.md                 # This file
